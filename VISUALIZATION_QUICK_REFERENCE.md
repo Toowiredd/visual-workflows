@@ -10,7 +10,7 @@
 
 1. **AI Agent Workflows**
    - Visual workflow builder with drag-and-drop nodes
-   - Chatflows and Agentflows
+   - Chatflows and agentflows
    - LLM chains and pipelines
    - Multi-agent systems
    - Location: Main canvas interface

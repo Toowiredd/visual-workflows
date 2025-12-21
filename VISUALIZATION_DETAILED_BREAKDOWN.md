@@ -326,11 +326,11 @@ Dependencies:
 ## Technology Decisions
 
 ### Why ReactFlow?
-- Flexible node-based UI
-- Custom node types
-- Connection validation
-- Good performance with many nodes
-- Active development and community
+- Provides flexible node-based UI
+- Supports custom node types
+- Includes built-in connection validation
+- Delivers good performance with many nodes
+- Has active development and community support
 
 ### Why Recharts?
 - React-native charts
@@ -378,7 +378,7 @@ Dependencies:
 ### How Flowise Uses ReactFlow
 
 ```javascript
-// Simplified from /packages/ui/src/views/canvas/index.jsx
+// Example ReactFlow implementation based on Flowise canvas structure
 
 import ReactFlow, { 
   addEdge, 
@@ -421,7 +421,7 @@ const Canvas = () => {
 ### How Conversation History Works
 
 ```javascript
-// Simplified from /packages/ui/src/views/chatmessage/ChatMessage.jsx
+// Example conversation component based on Flowise chat implementation
 
 const ChatMessage = ({ message }) => {
   return (
@@ -449,7 +449,7 @@ const ChatMessage = ({ message }) => {
 ### How Execution Trees Work
 
 ```javascript
-// Simplified from /packages/ui/src/views/agentexecutions/ExecutionDetails.jsx
+// Example tree view component based on Flowise execution details
 
 import { RichTreeView } from '@mui/x-tree-view/RichTreeView'
 
