@@ -211,8 +211,8 @@ AI orchestration framework to build customizable, production-ready LLM applicati
 
 ### 2.4 RAGFlow
 
-**GitHub Repository:** Community RAGFlow implementations  
-**Language:** Python
+**GitHub Repository:** [https://github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)  
+**Stars:** ~70,289 | **Language:** Python
 
 **Description:**  
 Combines advanced agentic workflows with RAG, featuring modern document parsing and multi-agent coordination.
@@ -342,8 +342,8 @@ Microsoft's programming framework for agentic AI. Designed for building and orch
 
 ### 3.4 Mainframe-Orchestra
 
-**GitHub Repository:** Community implementations  
-**Language:** Python
+**GitHub Repository:** [https://github.com/mainframecomputer/orchestra](https://github.com/mainframecomputer/orchestra)  
+**Stars:** ~737 | **Language:** Python
 
 **Description:**  
 Cognitive architecture for building LLM-based multi-agent teams with modular orchestration and dynamic task decomposition.
@@ -546,7 +546,7 @@ The platform for reliable agents. Most widely adopted framework for building cus
 
 ### 5.2 OpenHands (formerly OpenDevin)
 
-**GitHub Repository:** Community OpenHands repos  
+**GitHub Repository:** [https://github.com/OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)  
 **Language:** Python
 
 **Description:**  
