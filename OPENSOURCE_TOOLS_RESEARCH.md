@@ -76,8 +76,8 @@ The open-source hub to build & deploy GPT/LLM Agents. Features a visual flow bui
 
 ### 1.3 Microsoft Bot Framework
 
-**GitHub Repository:** Microsoft Bot Framework repos  
-**Language:** Multi-language (C#, JavaScript, Python, Java)
+**GitHub Repository:** [https://github.com/microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk)  
+**Stars:** ~7,799 | **Language:** JavaScript (Multi-language SDKs)
 
 **Description:**  
 Enterprise-grade, scalable solution for building complex chatbots with support for text, voice, and adaptive cards.
@@ -476,6 +476,12 @@ Fair-code workflow automation platform with native AI capabilities. While not he
 
 ### 4.4 Apache Airflow & Prefect
 
+**Apache Airflow GitHub:** [https://github.com/apache/airflow](https://github.com/apache/airflow)  
+**Stars:** ~43,613 | **Language:** Python
+
+**Prefect GitHub:** [https://github.com/PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)  
+**Stars:** ~21,152 | **Language:** Python
+
 **Description:**  
 Workflow orchestration engines widely used in healthcare for data integration, ETL, and long-running tasks.
 
@@ -547,7 +553,7 @@ The platform for reliable agents. Most widely adopted framework for building cus
 ### 5.2 OpenHands (formerly OpenDevin)
 
 **GitHub Repository:** [https://github.com/OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)  
-**Language:** Python
+**Stars:** ~65,863 | **Language:** Python
 
 **Description:**  
 Autonomous agents that function as software developers, capable of interacting with codebases, executing commands, and accessing documentation.
@@ -576,6 +582,9 @@ Autonomous agents that function as software developers, capable of interacting w
 
 ### 5.3 AutoGPT
 
+**GitHub Repository:** [https://github.com/Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  
+**Stars:** ~180,452 | **Language:** Python
+
 **Description:**  
 One of the most popular agentic frameworks for automating multi-step tasks using LLMs.
 
@@ -603,6 +612,9 @@ One of the most popular agentic frameworks for automating multi-step tasks using
 
 ### 5.4 NocoBase
 
+**GitHub Repository:** [https://github.com/nocobase/nocobase](https://github.com/nocobase/nocobase)  
+**Stars:** ~20,841 | **Language:** TypeScript
+
 **Description:**  
 No-code platform for building internal enterprise tools with integrated AI assistants.
 
@@ -629,6 +641,9 @@ No-code platform for building internal enterprise tools with integrated AI assis
 ---
 
 ### 5.5 Composio
+
+**GitHub Repository:** [https://github.com/ComposioHQ/composio](https://github.com/ComposioHQ/composio)  
+**Stars:** ~26,224 | **Language:** Python, TypeScript
 
 **Description:**  
 Platform to build, customize, and deploy AI agents that plug into tools like Discord, Slack, GitHub, Trello, and more.
